@@ -98,8 +98,10 @@ urlpatterns = [
 ]
 ~~~
 ## OUTPUT:
-Thus a website is designed to perform mathematical calculations in server side and is hosted at
+![webside server ](https://user-images.githubusercontent.com/93978702/154943167-4fcf3574-e79c-4590-9548-5a0965962bb9.png)
+
 
 
 ## Result:
 
+Thus a website is designed to perform mathematical calculations in server side 
