@@ -64,6 +64,7 @@ HTML:
 </body>
 </html>
 ~~~
+view.py
 ~~~ python 
 from django.shortcuts import render
 def areacalculation(request):
@@ -83,8 +84,7 @@ def areacalculation(request):
         context["l"] = l
     return render(request,"app/area.html",context)
   ~~~
-  
-"""calculation URL Configuration
+ url.py
 ~~~python 
 from django.contrib import admin
 from django.urls import path
